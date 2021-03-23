@@ -1,0 +1,37 @@
+.navbar{
+    background-color: rebeccapurple;
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.purple{
+    background-color: black;
+    color: lightgray;
+}
+
+.images{
+    background-color: rebeccapurple;
+    color: lightgray;
+}
+
+.margin-bottom{
+    padding-bottom: 50px;
+}
+
+.more-images{
+    background-color: black;
+    color: lightgrey;
+}
+
+.bg-footer{
+    background-color :#212529;
+    color: lightgray;
+}
+
+.margin-reduced{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
